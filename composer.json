@@ -1,0 +1,21 @@
+{
+    "name": "aurelien/bowling",
+    "require-dev": {
+        "phpunit/phpunit": "@stable"
+    },
+    "authors": [
+        {
+            "name": "Aurelien",
+            "email": "aurelien@fontaine.mx"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {
+            "Bowling": ""
+        }
+    },
+    "target-dir": "Bowling"
+}
